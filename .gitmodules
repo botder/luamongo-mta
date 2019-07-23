@@ -1,0 +1,7 @@
+[submodule "dependencies/mongo-c-driver"]
+	path = dependencies/mongo-c-driver
+	url = https://github.com/mongodb/mongo-c-driver.git
+	branch = r1.14
+[submodule "dependencies/lua-mongo"]
+	path = dependencies/lua-mongo
+	url = https://github.com/botder/lua-mongo.git
